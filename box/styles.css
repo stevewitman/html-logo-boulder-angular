@@ -1,5 +1,5 @@
-/* Styles go here */
 body {
+  padding:50px;
   background: #1976D2;;
 }
 .left {
@@ -7,22 +7,24 @@ body {
     font-family: 'Ubuntu', sans-serif;
     font-weight: lighter;
     margin-bottom: -200px;
-    margin-right:5px;
-    font-size: 80px;
+    margin-left:13px;
+    margin-right:3px;
+    font-size: 28px;
+    font-stretch: expanded;
 }
 .right {
     color: white;
     font-family: 'Ubuntu', sans-serif;
     font-weight: lighter;
     margin-bottom: 500px;
-    margin-left: 5px;
-    font-size: 80px;
+    margin-left: 4px;
+    font-size: 28px;
 }
 img {
-  width: 140px;
-margin-left: -15px;
+  width: 100px;
+margin-left: 12px;
   margin-right: -15px;
   position: relative;
-  top: 40px
+  top: 15px
 
 }
